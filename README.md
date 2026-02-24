@@ -1,4 +1,4 @@
-# Marcelo-Santos
+# ![Banner](./banner.png)
 # 💫 About Me:
 # Marcelo Santos
 
