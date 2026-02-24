@@ -1,4 +1,5 @@
-<img width="100%" src="https://github.com/user-attachments/assets/60f1f59e-5a89-4ddf-a554-e28068aa802e" />
+
+<img width="1536" height="1024" alt="Banner prof" src="https://github.com/user-attachments/assets/34e15e24-4eca-4173-8577-056fd9618205" />
 
 # Marcelo Santos
 
