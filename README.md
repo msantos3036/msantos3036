@@ -3,9 +3,9 @@
 
 # Marcelo Santos
 
-### Controller Financeiro & Construtor de Sistemas de Gestão
+### Consultor Estratégico em Gestão & Sistemas
 
-Conectando Finanças, Dados e Tecnologia para gerar decisões mais inteligentes e resultados sustentáveis.
+Utilizo tecnologia, modelagem de dados e automação para transformar diagnósticos financeiros em sistemas estruturados de decisão empresarial.
 
 ---
 
@@ -13,11 +13,13 @@ Conectando Finanças, Dados e Tecnologia para gerar decisões mais inteligentes 
 
 Profissional com mais de 30 anos de experiência em Controladoria, Finanças e Rentabilidade Empresarial.
 
-Atualmente integro tecnologia, modelagem de dados e inteligência artificial à gestão estratégica, desenvolvendo sistemas orientados à performance e à tomada de decisão baseada em dados.
+Atuo na estruturação de modelos financeiros, organização de dados e desenvolvimento de sistemas que apoiam decisões estratégicas, combinando visão de negócio com implementação técnica.
 
-Minha atuação une visão de negócio com estrutura técnica.
+A tecnologia é instrumento.  
+A estratégia é o foco.
 
 ---
+
 ## 🏢 Atuação Estratégica
 
 Integro experiência em controladoria e rentabilidade empresarial com desenvolvimento de sistemas estruturados, orientados a dados e sustentados por arquitetura técnica sólida.
