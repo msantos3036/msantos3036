@@ -1,4 +1,4 @@
-# ![Banner](./banner.png)
+# <img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/60f1f59e-5a89-4ddf-a554-e28068aa802e" />
 # 💫 About Me:
 # Marcelo Santos
 
