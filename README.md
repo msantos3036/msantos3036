@@ -18,6 +18,11 @@ Atualmente integro tecnologia, modelagem de dados e inteligência artificial à 
 Minha atuação une visão de negócio com estrutura técnica.
 
 ---
+## 🏢 Atuação Estratégica
+
+Integro experiência em controladoria e rentabilidade empresarial com desenvolvimento de sistemas estruturados, orientados a dados e sustentados por arquitetura técnica sólida.
+
+---
 
 ## 🏗 Posicionamento Profissional
 
