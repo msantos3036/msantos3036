@@ -1,55 +1,57 @@
-# <img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/60f1f59e-5a89-4ddf-a554-e28068aa802e" />
-# 💫 About Me:
+<img width="100%" src="https://github.com/user-attachments/assets/60f1f59e-5a89-4ddf-a554-e28068aa802e" />
+
 # Marcelo Santos
 
-Financial Controller & Business Systems Builder
+### Controller Financeiro & Construtor de Sistemas de Gestão
 
-Profissional com mais de 30 anos de experiência em Controladoria, Finanças e Rentabilidade Empresarial, atualmente integrando Tecnologia, Dados e Inteligência Artificial à gestão estratégica.
-
-Minha missão é transformar diagnósticos financeiros em sistemas inteligentes, escaláveis e orientados à performance.
-
-## What I Build
-
-- 📊 Sistemas de diagnóstico financeiro empresarial
-- 💰 Modelos de rentabilidade e análise de margem
-- 🏫 Estruturação financeira para grupos educacionais
-- 🍽️ Diagnóstico estratégico para restaurantes
-- 🚗 Modelos financeiros para locadoras e negócios automotivos
-- 🗄️ Estruturação de bancos de dados relacionais (MySQL)
-- 🧠 Aplicações de IA e análise de dados para tomada de decisão
-- 
-# 💻 Tech Stack:
-## Tech Stack
-
-- Python
-- MySQL
-- JavaScript
-- Power BI
-- Excel Avançado
-- Modelagem Financeira
-- Estruturação de Banco de Dados
-- Análise de Dados
-
-## Current Focus
-
-- Desenvolvimento de sistemas financeiros web
-- Integração entre diagnóstico financeiro e tecnologia
-- Estruturação de bases de dados escaláveis
-- Aplicação de IA na gestão empresarial
-
-- ## Vision
-
-Construir sistemas que conectam Finanças, Dados e Tecnologia para gerar decisões mais inteligentes, previsíveis e lucrativas.
-
-Bridging Finance, Data and Technology.
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Marcelo-Santos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Marcelo-Santos&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Santos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Conectando Finanças, Dados e Tecnologia para gerar decisões mais inteligentes e resultados sustentáveis.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Marcelo-Santos&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Sobre Mim
+
+Profissional com mais de 30 anos de experiência em Controladoria, Finanças e Rentabilidade Empresarial.
+
+Atualmente integro tecnologia, modelagem de dados e inteligência artificial à gestão estratégica, desenvolvendo sistemas orientados à performance e à tomada de decisão baseada em dados.
+
+Minha atuação une visão de negócio com estrutura técnica.
+
+---
+
+## 🏗 Posicionamento Profissional
+
+- Estruturação de sistemas financeiros empresariais  
+- Modelagem de rentabilidade e análise de margem  
+- Arquitetura de banco de dados relacional (MySQL)  
+- Implementação de regras de negócio em Python  
+- Estruturação de soluções orientadas a dados  
+- Aplicação de tecnologia à gestão estratégica  
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+Python • MySQL • JavaScript • Power BI • Excel Avançado • Modelagem Financeira • Análise de Dados
+
+---
+
+## 🎯 Foco Atual
+
+- Desenvolvimento de sistemas financeiros baseados na web  
+- Estruturação de bases de dados escaláveis  
+- Automação de análises financeiras  
+- Aplicação de Inteligência Artificial em contextos empresariais  
+
+---
+
+## 🧠 Laboratório Técnico
+
+Implementações práticas e evolução técnica disponíveis em:
+
+➡️ [Laboratório de Desenvolvimento Técnico](https://github.com/msantos3036/dio-lab-open-source)
+
+---
+
+## 🌎 Visão
+
+Construir sistemas que integrem Finanças, Dados e Tecnologia para transformar informação em inteligência de negócio e vantagem competitiva.
